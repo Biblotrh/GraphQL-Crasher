@@ -1,5 +1,5 @@
 # GraphQL-Crasher
-Example of code to crash MovieStarPlanet2 microservices/servers 'exploiting' GraphQL
+Example of code to crash MovieStarPlanet2 microservices/servers using GraphQl vulnerabilities
 
 # Disclaimer: Educational Use Only
 
